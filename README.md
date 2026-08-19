@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amanjain051106-boop/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amanjain051106-boop/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0566-reshape-the-matrix](https://github.com/amanjain051106-boop/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanjain051106-boop/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanjain051106-boop/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amanjain051106-boop/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amanjain051106-boop/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/amanjain051106-boop/Leetcode/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/amanjain051106-boop/Leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
