@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/amanjain051106-boop/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanjain051106-boop/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amanjain051106-boop/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
