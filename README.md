@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amanjain051106-boop/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/amanjain051106-boop/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/amanjain051106-boop/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/amanjain051106-boop/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/amanjain051106-boop/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/amanjain051106-boop/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
