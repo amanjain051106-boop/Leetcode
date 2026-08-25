@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/amanjain051106-boop/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/amanjain051106-boop/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amanjain051106-boop/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/amanjain051106-boop/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanjain051106-boop/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/amanjain051106-boop/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/amanjain051106-boop/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/amanjain051106-boop/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Stack
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amanjain051106-boop/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/amanjain051106-boop/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
