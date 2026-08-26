@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/amanjain051106-boop/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0888-fair-candy-swap](https://github.com/amanjain051106-boop/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/amanjain051106-boop/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanjain051106-boop/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amanjain051106-boop/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amanjain051106-boop/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amanjain051106-boop/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/amanjain051106-boop/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/amanjain051106-boop/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanjain051106-boop/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amanjain051106-boop/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/amanjain051106-boop/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
