@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amanjain051106-boop/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amanjain051106-boop/Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amanjain051106-boop/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/amanjain051106-boop/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amanjain051106-boop/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/amanjain051106-boop/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/amanjain051106-boop/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/amanjain051106-boop/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Stack
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0566-reshape-the-matrix](https://github.com/amanjain051106-boop/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
