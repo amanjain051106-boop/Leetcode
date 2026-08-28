@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/amanjain051106-boop/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanjain051106-boop/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/amanjain051106-boop/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0665-non-decreasing-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0888-fair-candy-swap](https://github.com/amanjain051106-boop/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/amanjain051106-boop/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
