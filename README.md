@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/amanjain051106-boop/Leetcode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/amanjain051106-boop/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanjain051106-boop/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/amanjain051106-boop/Leetcode/tree/master/0670-maximum-swap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amanjain051106-boop/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amanjain051106-boop/Leetcode/tree/master/0055-jump-game) |
+| [0670-maximum-swap](https://github.com/amanjain051106-boop/Leetcode/tree/master/0670-maximum-swap) |
 ## Combinatorics
 |  |
 | ------- |
