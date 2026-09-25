@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/amanjain051106-boop/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/amanjain051106-boop/Leetcode/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/0665-non-decreasing-array) |
+| [0860-lemonade-change](https://github.com/amanjain051106-boop/Leetcode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/amanjain051106-boop/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/amanjain051106-boop/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/amanjain051106-boop/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amanjain051106-boop/Leetcode/tree/master/0055-jump-game) |
 | [0670-maximum-swap](https://github.com/amanjain051106-boop/Leetcode/tree/master/0670-maximum-swap) |
+| [0860-lemonade-change](https://github.com/amanjain051106-boop/Leetcode/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amanjain051106-boop/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Combinatorics
 |  |
